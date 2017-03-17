@@ -50,12 +50,12 @@
   },
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/istanbuljs/istanbul-lib-instrument/issues"
+    "url": "https://github.com/jonathanargentiero/istanbul-lib-instrument/issues"
   },
-  "homepage": "https://github.com/istanbuljs/istanbul-lib-instrument",
+  "homepage": "https://github.com/jonathanargentiero/istanbul-lib-instrument",
   "repository": {
     "type": "git",
-    "url": "git@github.com:istanbuljs/istanbul-lib-instrument.git"
+    "url": "git@github.com:jonathanargentiero/istanbul-lib-instrument.git"
   },
   "keywords": [
     "coverage",
